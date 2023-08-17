@@ -1,0 +1,15 @@
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\bin\Debug\net6.0\LearningCSharp.exe
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\bin\Debug\net6.0\LearningCSharp.deps.json
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\bin\Debug\net6.0\LearningCSharp.runtimeconfig.json
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\bin\Debug\net6.0\LearningCSharp.dll
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\bin\Debug\net6.0\LearningCSharp.pdb
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\obj\Debug\net6.0\LearningCSharp.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\obj\Debug\net6.0\LearningCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\obj\Debug\net6.0\LearningCSharp.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\obj\Debug\net6.0\LearningCSharp.AssemblyInfo.cs
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\obj\Debug\net6.0\LearningCSharp.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\obj\Debug\net6.0\LearningCSharp.dll
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\obj\Debug\net6.0\refint\LearningCSharp.dll
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\obj\Debug\net6.0\LearningCSharp.pdb
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\obj\Debug\net6.0\LearningCSharp.genruntimeconfig.cache
+C:\Users\SAILS-DM273\Desktop\C#\LearningCSharp\LearningCSharp\obj\Debug\net6.0\ref\LearningCSharp.dll
